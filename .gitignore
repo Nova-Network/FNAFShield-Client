@@ -1,0 +1,14 @@
+
+launcher/libraries/
+
+jre/
+
+game/libraries/
+
+game/servers.dat
+
+game/servers.dat.bak
+
+game/assets/
+
+game/.fabric/
