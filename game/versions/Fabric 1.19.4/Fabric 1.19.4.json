@@ -2,7 +2,7 @@
   "id": "Fabric 1.19.4",
   "jar": "1.19.4",
   "family": "Fabric-1.19",
-  "time": "2023-04-22T06:14:44.732Z",
+  "time": "2023-04-22T14:19:45.177Z",
   "releaseTime": "2023-03-14T12:56:18Z",
   "type": "modified",
   "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",

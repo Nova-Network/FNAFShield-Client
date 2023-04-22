@@ -1,13 +1,13 @@
 {
   "userSet": {
     "selected": {
-      "username": "set_your_nickname",
+      "username": "set_your_nick",
       "type": "plain"
     },
     "list": [
       {
-        "username": "set_your_nickname",
-        "uuid": "ba53d1aea5363a078896e7e59176991c",
+        "username": "set_your_nick",
+        "uuid": "d623f370332a3d21a8f0479beb7d0006",
         "type": "plain"
       }
     ]

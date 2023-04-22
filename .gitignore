@@ -12,3 +12,5 @@ game/servers.dat.bak
 game/assets/
 
 game/.fabric/
+*.dat_old
+*.log

@@ -23,8 +23,8 @@ darkMojangStudiosBackground:true
 hideLightningFlashes:false
 mouseSensitivity:0.5
 fov:0.25
-screenEffectScale:1.0
-fovEffectScale:1.0
+screenEffectScale:0.8
+fovEffectScale:0.8944271976639177
 darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
