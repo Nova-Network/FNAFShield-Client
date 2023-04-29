@@ -29,7 +29,7 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 damageTiltStrength:1.0
-highContrast:false
+highContrast:true
 gamma:1.0
 renderDistance:12
 simulationDistance:5
@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","midnightcontrols:bedrock","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip","high_contrast","midnightcontrols:bedrock","file/pack"]
 incompatibleResourcePacks:["continuity:default","continuity:glass_pane_culling_fix"]
 lastServer:
 lang:ru_ru

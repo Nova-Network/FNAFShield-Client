@@ -1,14 +1,23 @@
 {
   "userSet": {
     "selected": {
-      "username": "set_your_nick",
-      "type": "plain"
+      "username": "SPAWNRYS",
+      "type": "minecraft"
     },
     "list": [
       {
-        "username": "set_your_nick",
-        "uuid": "d623f370332a3d21a8f0479beb7d0006",
-        "type": "plain"
+        "id": "e71e78fc-b983-43d2-97aa-14b427a24312",
+        "name": "SPAWNRYS",
+        "minecraft": {
+          "token": "eyJraWQiOiJhYzg0YSIsImFsZyI6IkhTMjU2In0.eyJ4dWlkIjoiMjUzNTQ0MDkzNDE3MzY1NiIsImFnZyI6IkFkdWx0Iiwic3ViIjoiYmQ4NDYyZDAtODdlOS00ODgxLWIwNmMtZGQ3ZjIxZTc5YTQ4IiwiYXV0aCI6IlhCT1giLCJucyI6ImRlZmF1bHQiLCJyb2xlcyI6W10sImlzcyI6ImF1dGhlbnRpY2F0aW9uIiwicGxhdGZvcm0iOiJVTktOT1dOIiwieXVpZCI6ImMzMGUzNzQ3ODk3MTU0NWQ3MzE1NTE5Yzc1ZjUxMDFhIiwibmJmIjoxNjgyNzU3MDUxLCJleHAiOjE2ODI4NDM0NTEsImlhdCI6MTY4Mjc1NzA1MX0.jFXamEGW0PGMamsjD4IP7iExDVUpaB_Ac9es3JVWB0U",
+          "expiresAt": "2023-04-30T08:30:50.331825800Z"
+        },
+        "microsoft": {
+          "accessToken": "EwBIA+pvBAAUKods63Ys1fGlwiccIFJ+qE1hANsAAZLmNfHpuoDNJVsjEni1mdKm4ssaAgIPeDjGmk4DYj0YuWaF8NeQBGVbNOCZrqHTTs1IkfmJvje6AO1bEkFjITuvWtUcg4ozgL5jeJZbzjl57TCcpRrXAAhElGvLL7Op0SobYQTeeXeXundqCgvxExmVckzJK5xiwRzskX5o40fUoojDOkOftdcYqwmuFuRZeMTQ4sH+sJnc296aIarRVqPwJop63bUGNJK8I0nk53nj1yIpg8k4NPF3A3nGuoTOmJN08rDi2oF1/PNxtoWO1/SPjMqQAQ9cVdOnT0iHQqnPhbpJk1kZqj5iKDr48FEPqCa+XqRGko7WkXgWhByfRrYDZgAACNoy5ppXBCd4GAKaC9ke9R5fITemLmB/Mz8WPpp0rP0wMO5gtO4EBAITlzvJe6s2Zylps3j3iRx9Cej0EWEn1fGOddKMhx9ZYfC5rMiW610B5V+gENbLS7ihnXxj/iy1YsshEMz0QrcZyCbZuKR9+7eI/fZJjIJ2Ztyiqgx9Y9jbtFE8w11QZ4DoN7VbuDzAhUpqTTYrIzqtEr5Ae7u9mOm+QDKdIMhT5cNN3LeYRd9cZ1WeA4xtYYC3A5IWdXYqTK11dEbMvyw28YjpNQpAE+PPIzTKooql79/Mgg48w6yE1z/Exx7t0aihzH6RG3oN7ruuXoTOo/2TLSr0ZQU8dt+vBjag2SJnEbfzDUTLQSA0Q7KDJRHWzJZN506x4/5lntfv1OfasrJPKnzjKX/eihrQ/IBWNs6DF2GE6AACYlBq24YYuJxVzaXIw19R/RHVx7kJY9DnGk5t86w+MTSRxYrvny7j0t81Pof2RY2+k5qM1cveuUj01Sak9YfLb7nS0rCYvPczjLskppAroAw1Vct4/X1dNz4PVKQndsXxkaBns0zixioXfGiVkEMCj4lzcrH/yxthWrVbcA7xuNrDmQ609SR0SMrXfHGztzh+tQA2PhjkLnh7Lm13vcwKpE/FFd2Flupozn1cTag9c1VyzHt0rNWL7IU4FCc5AqvTAZDdc7uQSmA/QhHKuUfHt0k0AeK+eYvvh1WH9KAr7dSAz1mNMzAC",
+          "refreshToken": "M.C107_BL2.-CWOiHy7LwWGF5wWzEpH31jFIODUZkJo7jtvgVMJ0Ppyvdwdq3C3GmaBkGPJs!ZCZU1j5DMCzEaosy0D1WLSNnshlEphZMAQvjEPJeVtn3zz5yxQi6fXLSnG3RdvArA3F!lzDwx6W8xhmI5DKg8gIy4ERGjrLxKtmWMGn1QGgfYDfnM1iKiiKEJw1nOxsZ86qRMJzKjrSnixQOfzaJzJtSTyANWxdfPvb5bWenGQY678c9ucBqyRsHriUbKc6T1uQ*2OmGV45zZrDWIcHPQWeExQ1SouHe67mzZEohiMPypEI28uxZ8i5OMH7oE5LDXNqAy29mMX3vnZJInsw8gacN3Y$",
+          "expiresAt": "2023-04-29T09:30:46.053628400Z"
+        },
+        "type": "minecraft"
       }
     ]
   }
